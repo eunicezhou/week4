@@ -1,0 +1,27 @@
+body{
+    background-color: #E6E6F2;
+}
+.container{
+    width:50vw;
+    height:40vh;
+	position:absolute;
+    top:30%;
+    left:25%;
+    background-color: white;
+}
+h2{
+    background-color: #484891;
+    color:white;
+    text-align: center;
+    align-items: center;
+    height:40px;
+    width:100%;
+    padding-top: 8px;
+    margin-top: 0%;
+}
+h3{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
