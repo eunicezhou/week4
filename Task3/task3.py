@@ -43,6 +43,7 @@ def error():
 @app.route("/signout")
 def signout():
      del session["account"]
+     del session["password"]
      return redirect("/")
 
 app.run(port = 3000)
